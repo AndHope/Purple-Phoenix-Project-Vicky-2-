@@ -1,0 +1,11 @@
+owner = EGY
+controller = BYZ
+add_core = BYZ
+trade_goods = fruit
+life_rating = 35
+terrain = marginal_farmland
+state_building = {
+	level = 1
+	building = fertilizer_factory
+	upgrade = yes
+}

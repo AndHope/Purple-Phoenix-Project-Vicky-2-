@@ -1,0 +1,9 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+
+add_core = ARM
+trade_goods = iron
+life_rating = 35
+terrain = hilly_grassland
+

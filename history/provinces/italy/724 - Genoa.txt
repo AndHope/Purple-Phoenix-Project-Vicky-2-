@@ -1,0 +1,32 @@
+owner = GEN
+controller = GEN
+add_core = GEN
+add_core = ITA
+railroad = 2
+trade_goods = coal
+life_rating = 35
+naval_base = 5
+terrain = deciduous_forest_hills
+
+state_building = {
+	level = 2 
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+state_building = {
+	level = 2 
+	building = steamer_shipyard
+	upgrade = yes
+}
+
+state_building = {
+	level = 1
+	building = stock_exchange
+	upgrade = yes
+	}
+state_building = {
+	level = 1
+	building = newspaper
+	upgrade = yes
+}

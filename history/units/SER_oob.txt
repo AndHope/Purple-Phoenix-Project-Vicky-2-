@@ -1,0 +1,50 @@
+army = {
+	name = "Serbian Army"
+	location = 794
+	regiment = {
+		name= "1. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+	regiment = {
+		name= "2. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+	regiment = {
+		name= "3. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+	regiment = {
+		name= "4. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+	regiment = {
+		name= "5. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+	regiment = {
+		name= "6. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+	regiment = {
+		name= "7. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+	regiment = {
+		name= "8. Slavic Hussars"
+		type = hussar
+		home = 794
+	}
+
+}

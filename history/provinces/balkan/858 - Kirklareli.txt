@@ -1,0 +1,12 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+railroad = 2
+trade_goods = tobacco
+life_rating = 35
+terrain = hilly_farmland
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+	}

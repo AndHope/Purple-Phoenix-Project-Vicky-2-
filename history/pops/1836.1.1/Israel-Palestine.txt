@@ -1,0 +1,475 @@
+#Bayrut Region (52000)  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 1836
+#Acre (52000/13000 POPS) #now part of Israel-Palestine  bedouin-animist = druze 
+916 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 105
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1500
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 3500
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 325
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5575
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 175
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1250
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 10875
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 3050
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+}
+#Palestine Region (236000)  #see Jordan.txt for balance of region
+#under the rule of Egypt in 1836
+#Jerusalem (68000/17000 POPS)
+917 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 200
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 800
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 1750
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 9100
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 175
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 3225
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 9600
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 75
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2375
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 9675
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 4000
+	}
+
+}
+#Nablus (44000/11000 POPS)
+918 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 205
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 125
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 500
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6625
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 125
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1300
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 8250
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 3875
+	}
+}
+#Jaffa (48000/12000 POPS)
+919 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7050
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1250
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 5475
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 40
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 650
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 6075
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+}
+#Gaza (44000/11000 POPS)
+920 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 400
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 750
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 10400
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 125
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1000
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 5225
+	}
+}
+#Beersheba (36000/9000 POPS)
+921 = {
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 135
+	}
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 300
+
+	}
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 10425
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 250
+	}
+
+}

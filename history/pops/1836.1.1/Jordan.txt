@@ -1,0 +1,361 @@
+#Suriye Region (36000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1836  
+#Amman (20000/5000 POPS) #now part of Jordan
+908 = {
+	aristocrats = {
+		culture = bedouin
+		religion = coptic
+		size = 745
+	}
+	officers = {
+		culture = bedouin
+		religion = coptic
+		size = 375
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = coptic
+		size = 350
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 750
+		
+	}
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 750
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = coptic
+		size= 4750
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = coptic
+		size = 25875
+		
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+		
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 175
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 9675
+		
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = druze
+		size = 4000
+		
+	}
+}
+#Jerash (16000/4000 POPS) #now part of Jordan
+909 = {
+	aristocrats = {
+		culture = bedouin
+		religion = coptic
+		size = 285
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = coptic
+		size = 200
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 375
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = coptic
+		size= 3000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = coptic
+		size = 9465
+		
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 15
+		
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 15
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 35
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4910
+		
+	}
+	slaves = {
+		culture = bedouin
+		religion = druze
+		size = 2910	
+	}
+}
+#Badiyat al-Sham Region (40000)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1836  
+#Ruwayshid (12000/3000 POPS) #now part of Jordan 
+910 = {
+
+	clergymen = {
+		culture = bedouin
+		religion = coptic
+		size = 40
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 100
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = coptic
+		size= 545
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = coptic
+		size = 7900
+		
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+		
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 125
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5725
+		
+	}
+	slaves = {
+		culture = bedouin
+		religion = druze
+		size = 2910	
+	}
+}
+#Maan (12000/3000 POPS) #now part of Jordan
+911 = {
+	clergymen = {
+		culture = bedouin
+		religion = coptic
+		size = 40
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 100
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = coptic
+		size= 545
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = coptic
+		size = 5900
+		
+	}
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+		
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 50
+		
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5675
+		
+	}
+	slaves = {
+		culture = bedouin
+		religion = druze
+		size = 1910	
+	}
+}
+#Palestine Region (20000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836  
+#Aqaba (20000/5000 POPS) #now part of Jordan 
+922 = {
+	clergymen = {
+		culture = bedouin
+		religion = coptic
+		size = 150
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = coptic
+		size = 200
+		
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = coptic
+		size= 1545
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = coptic
+		size = 12900
+		
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+		
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 25
+		
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 4775
+		
+	}
+	slaves = {
+		culture = bedouin
+		religion = druze
+		size = 2910	
+	}
+
+}

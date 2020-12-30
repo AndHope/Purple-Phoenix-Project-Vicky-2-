@@ -1,0 +1,9 @@
+owner = UKR
+controller = UKR
+colonial = 2
+add_core = RUT
+add_core = TAR
+add_core = CRI
+trade_goods = fish
+life_rating = 35
+terrain = dry_grassland

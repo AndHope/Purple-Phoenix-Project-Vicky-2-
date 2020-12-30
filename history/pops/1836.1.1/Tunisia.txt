@@ -1,0 +1,273 @@
+#Tunisia Region (1392000)
+#under the rule of Tunisia in 1836
+#Tunis (488000/122000 POPs)
+1725 = {
+    aristocrats = {
+    culture = african
+    religion = coptic
+    size = 3000
+    }
+    officers = {
+    culture = african
+    religion = coptic
+    size = 120
+    }
+    bureaucrats = {
+    culture = greek
+    religion = orthodox
+    size = 650
+     }
+    soldiers = {
+    culture = african
+    religion = coptic
+    size = 6000
+    }
+    clergymen = {
+    culture = african
+    religion = coptic
+    size = 650
+    }
+
+    artisans = {
+    culture = african
+    religion = coptic
+    size = 3500
+    }
+
+    artisans = {
+    culture = african
+	religion = coptic
+    size = 3000
+    }
+
+    artisans = {
+    culture = african
+    religion = coptic
+    size = 3500
+     }
+    
+    artisans = {
+    culture = african
+    religion = coptic
+    size = 3000
+    }
+
+    farmers = {
+    culture = african
+    religion = coptic
+    size = 26000
+    }
+
+    farmers = {
+    culture = maghrebi
+    religion = sunni
+    size = 12100
+    }
+
+    farmers = {
+    culture = berber
+    religion = animist
+    size = 5000
+    }
+
+    artisans = {
+    culture = sephardic
+    religion = jewish
+    size = 2500
+    }
+}
+#Bizerte (268000/67000 POPS)
+1726 = {
+
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 340
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 1600
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 16860
+    }
+
+    farmers = {
+        culture = berber
+        religion = coptic
+        size = 5000
+    }
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 135
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 650
+    }
+
+    farmers = {
+        culture = african
+        religion = coptic
+        size = 3715
+    }
+
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 5000
+    }
+
+}
+#Gafsa (112000/28000 POPS)
+1727 = {
+    aristocrats = {
+        culture = african
+        religion = coptic
+        size = 400
+    }
+
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 275
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = greek
+        religion = orthodox
+        size = 150
+    }
+
+    officers = {
+        culture = african
+        religion = coptic
+        size = 200
+    }
+
+    soldiers = {
+        culture = african
+        religion = coptic
+        size = 4200
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 22025
+    }
+    farmers = {
+        culture = african
+        religion = coptic
+        size = 9025
+    }
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 10000
+    }
+}
+#Kairouan (228000/57000 POPS)
+1728 = {
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 320
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 800
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 22180
+    }
+
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 10000
+    }
+
+    farmers = {
+       culture = african
+        religion = coptic
+        size = 8045
+    }
+}
+#Tozeur (96000/24000 POPS)
+1729 = {
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 200
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 950
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 12300
+    }
+
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 5000
+    }
+}
+#Gabes (200000/50000 POPS)
+1730 = {
+    clergymen = {
+        culture = african
+        religion = coptic
+        size = 320
+    }
+
+    artisans = {
+        culture = african
+        religion = coptic
+        size = 820
+    }
+
+    farmers = {
+        culture = maghrebi
+        religion = sunni
+        size = 22660
+    }
+
+    farmers = {
+        culture = berber
+        religion = animist
+        size = 4000
+    }
+
+    farmers = {
+       culture = african
+        religion = coptic
+        size = 8165
+    }
+}

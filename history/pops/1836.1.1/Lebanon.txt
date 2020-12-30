@@ -1,0 +1,332 @@
+#Suriye Region (68000)  #see Syria.txt & Jordan.txt for balance of region
+#under the rule of Egypt in 1836  
+#Baalbeck (68000/17000 POPS) #now part of Lebanon
+912 = {
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 975
+
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1150
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 10925
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 3750
+	}
+
+}
+#Bayrut Region (260000)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 1836  
+#Beirut (128000/32000 POPS) #bedouin-animist = druze; bedouin-catholic = maronites
+913 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 450
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3750
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2725
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 1250
+	}
+	aristocrats = {
+		culture = syriac
+		religion = catholic
+		size = 500
+	}
+
+	officers = {
+		culture = syriac
+		religion = coptic
+		size = 100
+	}
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 1025
+	}
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 125
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1250
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 9575
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = syriac
+		religion = catholic
+		size = 1750
+	}
+
+	farmers = {
+		culture = syriac
+		religion = catholic
+		size = 9350
+	}
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 4975
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 35
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 2875
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 20
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1290
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+}
+#Askaleh (48000/12000 POPS) 
+914 = {
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 300
+
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1300
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 9875
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 2500
+	}
+
+}
+#Sidon (84000/21000 POPS) 
+915 = {
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = syriac
+		religion = coptic
+		size= 850
+
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = coptic
+		size = 125
+	}
+
+	artisans = {
+		culture = syriac
+		religion = coptic
+		size = 1195
+	}
+
+	farmers = {
+		culture = syriac
+		religion = coptic
+		size = 9625
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = syriac
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+		culture = syriac
+		religion = catholic
+		size = 8950
+	}
+
+
+	farmers = {
+		culture = bedouin
+		religion = druze
+		size = 4725
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 2500
+	}
+
+}

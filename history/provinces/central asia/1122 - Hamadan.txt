@@ -1,0 +1,10 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+add_core = IRQ        
+add_core = ARY
+
+
+trade_goods = horses
+life_rating = 35
+terrain = dry_grassland

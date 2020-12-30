@@ -1,0 +1,5 @@
+add_core = EGY
+add_core = PLS
+trade_goods = lead
+life_rating = 25
+terrain = desert_hills

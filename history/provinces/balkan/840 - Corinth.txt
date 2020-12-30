@@ -1,0 +1,13 @@
+owner = BYZ
+controller = BYZ
+add_core = GRE
+add_core = BYZ
+trade_goods = fish
+life_rating = 35
+naval_base = 1
+terrain = hilly_farmland
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}

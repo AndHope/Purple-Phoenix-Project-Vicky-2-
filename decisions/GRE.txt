@@ -1,0 +1,227 @@
+political_decisions = {
+	treaty_of_Corfu = { 
+		potential = { 
+			tag = BYZ
+			VEN = {
+			has_country_flag = greek_rebellion
+			war_with = THIS
+				}
+			}
+			
+			allow = {
+			834 = {
+				controller = {
+					NOT = {
+						tag = VEN
+						vassal_of = VEN
+						alliance_with = VEN
+					}
+				}
+				province_control_days = 450
+			}
+			840 = {
+				controller = {
+					NOT = {
+						tag = VEN
+						vassal_of = VEN
+						alliance_with = VEN
+					}
+				}
+				province_control_days = 450
+			}
+			833 = {
+				controller = {
+					NOT = {
+						tag = VEN
+						vassal_of = VEN
+						alliance_with = VEN
+					}
+				}
+				province_control_days = 450
+			}
+		}
+		
+		effect = { 
+		VEN = { country_event = 100618 }
+		}
+		ai_will_do = {
+				factor = 1
+			}
+	}
+
+	claim_thrace = {
+			potential = {
+				tag = BYZ
+				NOT = { is_vassal = yes }
+				NOT = { has_country_flag = thrace_claimed }
+				NOT = { war = yes }
+			}
+		
+			allow = {
+				NOT = {
+					BYZ = { is_greater_power = yes }
+				}
+				NOT = { war = yes }
+				BYZ = {
+					all_core = {
+						owned_by = THIS
+					}
+				}
+			}
+		
+			effect = {
+				prestige = 5
+				add_core = 828
+				add_core = 859
+				add_core = 858
+				add_core = 861
+				add_core = 860
+				set_country_flag = thrace_claimed
+			}
+			ai_will_do = {
+				factor = 1
+			}
+	}
+	
+	end_of_exarchate = { 
+	
+		picture = Greece_VEN
+	
+		potential = { 
+			tag = VEN 
+			government = democracy 
+			GRE = { vassal_of = VEN } 
+			rank = 15
+			NOT = { has_country_flag = greek_integration }
+			}
+			
+		allow = { 
+			nationalism_n_imperialism = 1 
+			war = no
+			}
+		effect = { 
+			inherit = GRE
+			set_country_flag = greek_integration 
+			add_accepted_culture = greek
+			BYZ = {
+				all_core = {
+						add_core = THIS
+					}
+				}
+			}
+		}
+
+	greek_integration = { 
+	
+		picture = Greece_VEN
+	
+		potential = { 
+			tag = VEN 
+			government = democracy 
+			rank = 15
+			NOT = { 
+				has_country_flag = greek_integration 
+				BYZ = { exists = yes }
+				}
+			}
+		
+		allow = { 
+			nationalism_n_imperialism = 1 
+			war = no
+			owns = 834
+			}
+		effect = { 
+			set_country_flag = greek_integration 
+			add_accepted_culture = greek
+			GRE = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+		}
+	}	
+
+	university_of_athens = { 
+		
+		picture = university_athens_pic
+		
+		potential = { 
+		owns = 834
+		OR = { 
+		tag = BYZ 
+		tag = VEN 
+		tag = MAC
+			}
+		NOT = { has_global_flag = university_GRE }
+		}
+		
+		allow = { 
+		idealism = 1 
+		year = 1850
+		}
+		
+		effect = { 
+		prestige = 5 
+		any_pop = { 
+		limit = { culture = greek }
+		literacy = 0.1
+			}
+		set_global_flag = university_GRE
+		834 = { 
+			add_province_modifier = {
+			name = university_athens
+			duration = -1
+				}
+			}
+		}
+	}
+	
+	settle_east_MAC = { 
+	
+	potential = { 
+	tag = BYZ 
+	owns = 823 
+	BUL = { exists = yes }
+	NOT = { has_country_flag = BUL_MAC_settled }
+	owns = 828
+		}
+		
+	allow = { 
+	is_greater_power = yes 
+	BUL = { in_sphere = THIS }
+	war = no 
+	BUL = { war = no }
+	nationalism_n_imperialism = 1 
+	}
+
+	effect = { 
+	set_country_flag = BUL_MAC_settled
+	BUL = { country_event = 106093 }
+	}
+	
+	}
+	
+	Enosis_GRE = { 
+	potential = { 
+	tag = BYZ 
+	NOT = { has_country_flag = megali_idea_complete }
+	}
+	
+	allow = {
+	all_core = { owned_by = THIS }
+	revolution_n_counterrevolution = 1 
+	}
+	
+	effect = { 
+	set_country_flag = megali_idea_complete
+	add_country_modifier = {
+			name = enosis_modifier
+			duration = 6000
+			}
+		}
+	
+	}
+	
+
+}
+

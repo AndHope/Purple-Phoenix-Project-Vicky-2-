@@ -1,0 +1,10 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = ANA
+fort = 2
+railroad = 2
+trade_goods = wool
+life_rating = 35
+terrain = hilly_farmland
+

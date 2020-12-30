@@ -1,0 +1,42 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+trade_goods = silk
+life_rating = 42
+naval_base = 6
+fort = 6
+railroad = 4
+terrain = good_farmland
+
+state_building = {
+	level = 4
+	building = stock_exchange
+	upgrade = yes
+	}
+state_building = {
+	level = 4
+	building = bank
+	upgrade = yes
+	}
+state_building = {
+	level = 4 
+	building = newspaper
+	upgrade = yes
+	}
+state_building = {
+	level = 1
+	building = steamer_shipyard
+	upgrade = yes
+	}   
+state_building = {
+	level = 1 
+	building = advanced_luxury_clothes_factory
+	upgrade = yes
+	}
+state_building = {
+	level = 1
+	building = advanced_luxury_furniture_factory
+	upgrade = yes
+	}
+		
+

@@ -1,0 +1,268 @@
+ALH = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+AFG = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+AZB = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+AFS = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+OMA = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+YEM = {
+	value = 175		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+ARM = {
+	value = -100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+GEO = {
+	value = -50		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+NEJ = {
+	value = -100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 50
+}
+HDJ = {
+	value = 100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+JOR = {
+	value = 100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+EGY = {
+	value = 100		#relation
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 0
+}
+AJU = {
+	value = -75		#relation
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	influence_value = 100
+}
+
+leader = {
+	name = "Artur Rasizade"
+	type = land
+	date = 1836.1.1
+	personality = cruel
+	background = gifted_administrator
+}
+
+leader = {
+	name = "Ilham Aliyev"
+	type = land
+	date = 1836.1.1
+	personality = fearsome
+	background = introverted_philosopher
+}
+
+leader = {
+	name = "Faisal I"
+	type = land
+	date = 1836.1.1
+	personality = unruly
+	background = aristocrat
+}
+
+leader = {
+	name = "Nuri as-Said"
+	type = land
+	date = 1836.1.1
+	personality = inept
+	background = renowned_adventurer
+}
+
+army = {
+	name = "Army of Mosul"
+	location = 923
+	regiment = {
+		name= "1. Iraqi"
+		type = hussar
+		home = 923
+	}
+
+	regiment = {
+		name= "2. Iraqi"
+		type = hussar
+		home = 923
+	}
+
+	regiment = {
+		name= "3. Iraqi"
+		type = hussar
+		home = 923
+	}
+
+	regiment = {
+		name= "4. Iraqi"
+		type = hussar
+		home = 923
+	}
+}
+
+army = {
+	name = "Army of Baghdad"
+	location = 926
+	regiment = {
+		name= "1. Iraqi"
+		type = hussar
+		home = 926
+	}
+
+	regiment = {
+		name= "2. Iraqi"
+		type = hussar
+		home = 926
+	}
+
+	regiment = {
+		name= "3. Iraqi"
+		type = hussar
+		home = 935
+	}
+
+	regiment = {
+		name= "1. Irani"
+		type = hussar
+		home = 1132
+	}
+}
+
+army = {
+	name = "Army of Kermanshah"
+	location = 1117
+	regiment = {
+		name= "1. Irani"
+		type = hussar
+		home = 1117
+	}
+
+	regiment = {
+		name= "2. Irani"
+		type = hussar
+		home = 1117
+	}	
+}
+
+
+army = {
+	name = "Army of the Safavids"
+	location = 1102
+	regiment = {
+		name= "1.1st Division"
+		type = hussar
+		home = 1102
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = hussar
+		home = 1102
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = hussar
+		home = 1102
+	}
+	
+	regiment = {
+		name= "4.1st Division"
+		type = hussar
+		home = 1052
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 1090
+	}
+}
+
+army = {
+	name = "Army of the Empire"
+	location = 1090
+	regiment = {
+		name= "1.1st Division"
+		type = hussar
+		home = 1090
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = hussar
+		home = 1094
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = hussar
+		home = 1098
+	}
+	
+	regiment = {
+		name= "4.1st Division"
+		type = hussar
+		home = 1108
+	}
+	
+	regiment = {
+		name= "5.1st Division"
+		type = hussar
+		home = 1108
+	}
+}
+
+navy = {
+	name = "Victorious Fleet"
+	location = 935
+	ship = {
+		name= "Basra"
+		type = manowar
+	}
+
+	ship = {
+		name= "Cairo"
+		type = frigate
+	}
+
+	ship = {
+		name= "Mecca"
+		type = frigate
+	}
+
+	ship = {
+		name= "1st Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = clipper_transport
+	}
+
+}

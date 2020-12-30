@@ -1,0 +1,7 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+railroad = 2
+trade_goods = fish
+life_rating = 35
+terrain = hilly_farmland

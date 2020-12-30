@@ -1,0 +1,382 @@
+#Basra Region (12000) #see Iraq.txt for balance of region  
+#under the rule of Ottoman Empire in 1836  
+#Kuwait (12000/3000 POPS) #now part of Kuwait 
+935 = {
+	aristocrats = {
+		culture = bedouin
+		religion = assyrian
+		size = 665
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = assyrian
+		size = 225
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = assyrian
+		size = 1300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = assyrian
+		size= 3170
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = assyrian
+		size = 19465
+	}
+	aristocrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrian
+		size= 500
+	}
+
+	farmers = {
+		culture = persian
+		religion = zoroastrian
+		size = 2500
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5725
+	}
+}
+#Bahrain Region (28000) #see Saudi Arabia.txt for balance of region  
+#under the rule of Trucial States in 1836  
+#Bahrain (20000/5000 POPS) #now part of Bahrein  
+1162 = {
+
+	aristocrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrian
+		size= 500
+
+	}
+
+	farmers = {
+		culture = persian
+		religion = zoroastrian
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 75
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrian
+		size = 10
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 1550
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8350
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 150
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 8300
+	}
+}
+#Doha (8000/2000 POPS) #now part of Qatar 
+1165 = {
+
+	aristocrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrian
+		size= 500
+
+	}
+
+	farmers = {
+		culture = persian
+		religion = zoroastrian
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 1325
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 12525
+	}
+}
+#Uman Region (36000) #see Oman.txt for balance of region 
+#under the rule of Oman in 1836  
+#Abu Dhabi (20000/5000 POPS) #now part of UAE  
+1167 = {
+
+	aristocrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrian
+		size= 500
+
+	}
+
+	farmers = {
+		culture = persian
+		religion = zoroastrian
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 75
+	}
+
+	officers = {
+		culture = persian
+		religion = zoroastrian
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 16650
+	}
+}
+#Dubai (16000/4000 POPS)   #now part of UAE 
+1168 = {
+
+	aristocrats = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = zoroastrian
+		size = 150
+	}
+
+	artisans = {
+		culture = persian
+		religion = zoroastrian
+		size = 500
+	}
+
+	soldiers = {
+		culture = persian
+		religion = zoroastrian
+		size= 500
+
+	}
+
+	farmers = {
+		culture = persian
+		religion = zoroastrian
+		size = 1500
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = sunni
+		size= 1500
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 16625
+	}
+
+}

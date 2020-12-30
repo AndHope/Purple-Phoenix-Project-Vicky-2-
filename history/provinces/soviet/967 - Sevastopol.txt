@@ -1,0 +1,10 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = CRI
+add_core = PON
+trade_goods = spices
+life_rating = 36
+terrain = hilly_farmland
+naval_base = 3
+fort = 3

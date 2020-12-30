@@ -1,0 +1,33 @@
+owner = VEN
+controller = VEN
+add_core = VEN
+railroad = 4
+trade_goods = silk
+life_rating = 37
+naval_base = 6
+terrain = good_farmland
+state_building = {
+	level = 2
+	building = clipper_shipyard
+	upgrade = yes
+}   
+state_building = {
+	level = 2
+	building = steamer_shipyard
+	upgrade = yes
+}        
+state_building = {
+	level = 1
+	building = stock_exchange
+	upgrade = yes
+	}
+state_building = {
+	level = 1
+	building = bank
+	upgrade = yes
+	}
+state_building = {
+	level = 1 
+	building = newspaper
+	upgrade = yes
+	}

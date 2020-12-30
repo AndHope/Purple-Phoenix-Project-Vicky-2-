@@ -1,0 +1,26 @@
+owner = FRR
+controller = FRR
+add_core = FRR
+add_core = TUS
+add_core = ITA
+railroad = 2
+naval_base = 2
+trade_goods = wool
+life_rating = 35
+terrain = good_farmland
+
+state_building = {
+	level = 2 
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = bakery
+	upgrade = yes
+}
+state_building = {
+	level = 2
+	building = regular_clothes_factory
+	upgrade = yes
+}

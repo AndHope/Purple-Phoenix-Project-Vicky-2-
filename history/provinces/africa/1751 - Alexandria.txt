@@ -1,0 +1,25 @@
+owner = EGY
+controller = BYZ
+add_core = EGY
+add_core = PLS
+trade_goods = spices
+life_rating = 39
+terrain = good_farmland
+naval_base = 4
+railroad = 2
+
+state_building = {
+	level = 1 
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = bakery
+	upgrade = yes
+}

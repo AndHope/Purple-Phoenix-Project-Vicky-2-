@@ -1,0 +1,13 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+trade_goods = grain
+life_rating = 36
+fort = 2
+railroad = 2
+terrain = good_farmland
+state_building = {
+	level = 2 
+	building = bakery
+	upgrade = yes
+}

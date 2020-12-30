@@ -1,0 +1,13 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = PLS
+trade_goods = grain
+life_rating = 36
+railroad = 1
+terrain = floodplain_farmland
+state_building = {
+	level = 1
+	building = bakery
+	upgrade = yes
+}

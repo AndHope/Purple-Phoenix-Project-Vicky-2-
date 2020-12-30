@@ -1,0 +1,8 @@
+owner = ARY
+controller = ARY
+colonial = 1 
+add_core = AFG                  
+add_core = ARY
+trade_goods = opium
+life_rating = 34
+terrain = semi_desert_hills

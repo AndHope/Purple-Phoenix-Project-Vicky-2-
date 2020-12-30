@@ -1,0 +1,8 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = PON
+trade_goods = coal
+railroad = 2
+life_rating = 35
+terrain = deciduous_forest_mountains

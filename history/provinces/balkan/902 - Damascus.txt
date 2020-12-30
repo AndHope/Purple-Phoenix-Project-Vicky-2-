@@ -1,0 +1,14 @@
+owner = EGY
+controller = EGY
+add_core = SYR
+add_core = IRQ
+fort = 2
+trade_goods = spices
+life_rating = 36
+terrain = hilly_farmland
+state_building = {
+	level = 1 
+	building = steel_factory
+	upgrade = yes
+}
+

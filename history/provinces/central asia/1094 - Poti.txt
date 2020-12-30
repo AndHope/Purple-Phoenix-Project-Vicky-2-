@@ -1,0 +1,8 @@
+owner = GEO
+controller = BYZ
+add_core = GEO
+fort = 2
+naval_base = 2
+trade_goods = tea
+life_rating = 35
+terrain = forested_farmland

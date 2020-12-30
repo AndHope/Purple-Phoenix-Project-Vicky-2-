@@ -1,0 +1,24 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+trade_goods = fish
+life_rating = 35
+naval_base = 2
+fort = 2
+railroad = 2
+terrain = hilly_farmland
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = fish_cannery
+	upgrade = yes
+}

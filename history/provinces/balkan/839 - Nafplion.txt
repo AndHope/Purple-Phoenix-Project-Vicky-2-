@@ -1,0 +1,14 @@
+owner = BYZ
+controller = BYZ
+add_core = GRE
+add_core = BYZ
+naval_base = 2
+fort = 2
+trade_goods = dye
+life_rating = 35
+terrain = mountain_farmland
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}

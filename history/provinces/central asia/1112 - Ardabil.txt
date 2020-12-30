@@ -1,0 +1,8 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+ 
+add_core = ARY
+trade_goods = timber
+life_rating = 35
+terrain = mountain_farmland

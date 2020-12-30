@@ -1,0 +1,7 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+fort = 2
+trade_goods = fruit
+life_rating = 35
+terrain = mountain_farmland

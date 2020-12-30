@@ -1,0 +1,9 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+
+          
+add_core = ARY
+trade_goods = cattle
+life_rating = 35
+terrain = hilly_grassland

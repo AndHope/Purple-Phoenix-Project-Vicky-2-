@@ -1,0 +1,8 @@
+owner = TAR
+controller = TAR
+add_core = NOG
+add_core = KZH
+add_core = TAR
+trade_goods = opium
+life_rating = 35
+terrain = desert

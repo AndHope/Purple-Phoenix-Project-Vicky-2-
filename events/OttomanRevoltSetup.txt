@@ -1,0 +1,251 @@
+country_event = {
+	id = 999996
+	title = "999996.T"
+	desc = "999996.D"
+	picture = "Orthodox"
+	
+	trigger = {
+		OR = {
+			tag = BUL
+			tag = SER
+			tag = ALB
+			tag = EGY
+		}
+		NOT = { has_country_flag = rebellion }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}	
+	option = {
+		name = "999996.A"
+		treasury = 20000
+		ammunition = 500
+		small_arms = 500
+		artillery = 500
+		canned_food = 500
+		regular_clothes = 500
+		gunpowder = 250
+		explosives = 250
+		horses = 250
+		set_country_flag = rebellion
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+				location = { is_core = BYZ }
+				OR = {
+					type = aristocrats
+					type = bureaucrats
+					type = officers
+					type = clergymen
+				}
+			}
+			literacy = 0.45
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+				location = { is_core = BYZ }
+				OR = {
+					type = capitalists
+					type = craftsmen
+					type = clerks
+					type = artisans
+				}
+			}
+			literacy = 0.25
+		}
+		add_country_modifier = { 
+			name = themata
+			duration = 3333
+			}
+	}
+}
+country_event = {
+	id = 999997
+	title = "999997.T"
+	desc = "999997.D"
+	picture = "Orthodox"
+	
+	trigger = {
+		OR = {
+			tag = GEN
+			tag = VEN
+			tag = TUS
+			tag = PAP
+			tag = LOM
+		}
+		NOT = { has_country_flag = rebellion }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}	
+	option = {
+		name = "999997.A"
+		ammunition = 200
+		small_arms = 200
+		artillery = 200
+		canned_food = 200
+		regular_clothes = 200
+		gunpowder = 150
+		explosives = 150
+		horses = 150
+		set_country_flag = rebellion
+		any_pop = {
+			limit = {
+				OR = {
+					type = aristocrats
+					type = bureaucrats
+					type = officers
+					type = capitalists
+					type = clergymen
+				}
+			}
+			literacy = 0.3
+		}
+		add_country_modifier = { 
+			name = taiping_draft
+			duration = 3333
+			}
+	}
+}
+
+country_event = {
+	id = 999998
+	title = "999998.T"
+	desc = "999998.D"
+	picture = "Orthodox"
+	
+	trigger = {
+		OR = {
+			tag = MUG
+			tag = ETH
+			tag = TUN
+			tag = ROM
+			tag = CRO
+			tag = SPA
+			tag = ARA
+			tag = MUS
+			tag = HUN
+			tag = ARM
+			tag = GEO
+			tag = ARY
+			tag = TUN
+			tag = FUN
+			tag = CRI
+		}
+		NOT = { has_country_flag = rebellion }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}	
+	option = {
+		name = "999998.A"
+		treasury = 50000
+		ammunition = 500
+		small_arms = 500
+		artillery = 500
+		canned_food = 500
+		regular_clothes = 500
+		gunpowder = 250
+		explosives = 250
+		horses = 250
+		set_country_flag = rebellion
+		any_pop = {
+			limit = {
+				OR = {
+					type = aristocrats
+					type = bureaucrats
+					type = officers
+					type = clergymen
+				}
+			}
+			literacy = 0.5
+			ideology = { factor = 1.0 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				OR = {
+					type = capitalists
+					type = craftsmen
+					type = clerks
+					type = artisans
+				}
+			}
+			literacy = 0.2
+			ideology = { factor = 0.5 value = reactionary }
+		}
+		add_country_modifier = { 
+			name = taiping_draft
+			duration = 333
+			}
+	}
+}
+
+country_event = {
+	id = 999999
+	title = "999999.T"
+	desc = "999999.D"
+	picture = "Orthodox"
+	
+	trigger = {
+		OR = {
+			tag = NEJ
+			tag = CHG
+			tag = TAR
+			tag = JOR
+			tag = TRI
+			tag = ALH
+			tag = OMA
+			tag = YEM
+			tag = HDJ
+			tag = AFS
+			tag = AZB
+			tag = AFG
+		}
+		NOT = { has_country_flag = rebellion }
+	}
+	mean_time_to_happen = {
+		months = 1
+	}	
+	option = {
+		name = "999998.A"
+		treasury = 75000
+		ammunition = 500
+		small_arms = 500
+		artillery = 500
+		canned_food = 500
+		regular_clothes = 500
+		gunpowder = 250
+		explosives = 250
+		horses = 250
+		set_country_flag = rebellion
+		any_pop = {
+			limit = {
+				OR = {
+					type = aristocrats
+					type = bureaucrats
+					type = officers
+					type = clergymen
+				}
+			}
+			literacy = 0.5
+			ideology = { factor = 1.0 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				OR = {
+					type = capitalists
+					type = craftsmen
+					type = clerks
+					type = artisans
+				}
+			}
+			literacy = 0.1
+			ideology = { factor = 0.5 value = reactionary }
+		}
+		add_country_modifier = { 
+			name = horde
+			duration = -1
+			}
+	}
+}

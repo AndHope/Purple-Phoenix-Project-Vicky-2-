@@ -1,0 +1,114 @@
+leader = {
+	name = "Marco Monteverdi"
+	type = land
+	date = 1836.1.1
+	personality = modest
+	background = elder_statesman
+}
+
+leader = {
+	name = "Pietro Vivaldi"
+	type = sea
+	date = 1836.1.1
+	personality = independent
+	background = gambler
+}
+
+navy = {
+	name = "Fleet of the Genoa"
+	location = 724
+	ship = {
+		name= "Costanza Guerriera"
+		type = ironclad
+	}
+
+	ship = {
+		name= "San Giovanni Battista"
+		type = monitor
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = monitor
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = monitor
+	}
+
+	ship = {
+		name= "San Giovanni Battista"
+		type = monitor
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = monitor
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = monitor
+	}
+
+	ship = {
+		name= "1a Squadrone Transporti"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2a Squadrone Transporti"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "1a Squadrone Transporti"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2a Squadrone Transporti"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "1a Squadrone Transporti"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2a Squadrone Transporti"
+		type = steam_transport
+	}
+}
+
+navy = {
+	name = "Fleet of Sardina"
+	location = 766
+	ship = {
+		name= "Stella Maris"
+		type = ironclad
+	}
+
+	ship = {
+		name= "Colomba d'Oro"
+		type = monitor
+	}
+
+	ship = {
+		name= "Croce Rossa"
+		type = monitor
+	}
+
+	ship = {
+		name= "Colomba d'Oro"
+		type = monitor
+	}
+
+	ship = {
+		name= "Croce Rossa"
+		type = monitor
+	}
+}
+

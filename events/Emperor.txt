@@ -1,0 +1,351 @@
+country_event = {
+	
+	id = 125100
+	title = "EVTNAME125100"
+	desc = "EVTDESC125100"
+	picture = "Ottoman"
+	
+	trigger = {
+		year = 1836
+		tag = BYZ
+		NOT = { has_country_flag = is_protector_at_the_beginning }
+		NOT = { has_country_flag = was_protector_at_the_beginning }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = "EVTOPTA125100"
+		set_country_flag = greece_has_got_a_brand_new_bag
+		set_country_flag = legacy_of_rome
+		set_country_flag = is_protector_at_the_beginning
+		set_country_flag = no_turks_in_anatolia
+		set_country_flag = byzantine_armenia
+		set_country_flag = byzantine_levant
+		set_country_flag = byzantine_egypt
+		set_country_flag = byzantine_moesia
+		ammunition = 500
+		small_arms = 500
+		artillery = 500
+		canned_food = 500
+		regular_clothes = 500
+		gunpowder = 250
+		explosives = 250
+		horses = 250
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+			}
+			militancy = -10
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = anatolian
+			}
+			militancy = -10
+			ideology = { factor = 0.95 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = pontic
+			}
+			militancy = -10
+			ideology = { factor = 0.30 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = georgian
+			}
+			militancy = -10
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = armenian
+			}
+			militancy = -10
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = assyrian
+			}
+			militancy = -10
+		}
+		any_pop = {
+			limit = {
+				location = { is_core = BYZ }
+			}
+			ideology = { factor = 1.0 value = conservative }
+		}
+		any_pop = {
+			limit = {
+				location = { is_core = GRE }
+			}
+			ideology = { factor = 1.0 value = liberal }
+			consciousness = 9
+		}
+		any_pop = {
+			limit = {
+				location = { is_core = PON }
+			}
+			ideology = { factor = 0.25 value = separatist }
+			ideology = { factor = 0.50 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				location = { is_core = ANA }
+			}
+			ideology = { factor = 0.25 value = separatist }
+			ideology = { factor = 1.0 value = reactionary }
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+				location = { is_core = BYZ }
+				OR = {
+					type = soldiers
+					type = officers
+					type = aristocrats
+				}
+			}
+			ideology = { factor = 1.0 value = reactionary }
+			ideology = { factor = 0.5 value = conservative }
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+				location = { is_core = BYZ }
+				OR = {
+					type = aristocrats
+					type = bureaucrats
+					type = officers
+					type = clergymen
+				}
+			}
+			literacy = 0.4
+			ideology = { factor = 1.0 value = reactionary }
+			ideology = { factor = 0.5 value = conservative }
+		}
+		any_pop = {
+			limit = {
+				has_pop_culture = greek
+				location = { is_core = BYZ }
+				OR = {
+					type = capitalists
+					type = craftsmen
+					type = clerks
+					type = artisans
+				}
+			}
+			literacy = 0.2
+		}
+		add_country_modifier = { 
+			name = roman_empire
+			duration = -1
+			}
+		add_country_modifier = { 
+			name = themata
+			duration = -1
+			}
+		860 = {
+			add_province_modifier = {
+			name = varangian_barracks
+			duration = -1
+			}
+		}
+		860 = {
+			add_province_modifier = {
+			name = city_of_worlds_desire
+			duration = -1
+			}
+		}
+		860 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		} 
+		860 = {
+			add_province_modifier = {
+				name = latin_quarter
+				duration = -1
+			}    
+		} 
+		834 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+		805 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+		869 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+		900 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+		967 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+		882 = {
+			add_province_modifier = {
+				name = latin_trading_post
+				duration = -1
+			}    
+		}
+	}
+}
+
+country_event = {
+	
+	id = 125101
+	title = "EVTNAME125101"
+	desc = "EVTDESC125101"
+	picture = "Ottoman"
+	major = yes
+	
+	is_triggered_only = yes
+
+	option = {
+		name = "EVTOPTA125101"
+		
+		clr_country_flag = is_protector_at_the_beginning
+		set_country_flag = was_protector_at_the_beginning
+		prestige = -10
+		remove_core = 1156
+		remove_core = 1151 
+		remove_core = 1152
+		remove_core = 1153 
+		remove_core = 1154 
+		remove_core = 1155
+		ai_chance = {
+			factor = 50
+		}
+	}
+	option = {
+		name = "EVTOPTB125101"
+		
+		war = {
+			target = NEJ
+			attacker_goal = {
+				casus_belli = acquire_core_state
+				state_province_id = 1151
+			}
+
+			defender_goal = {
+				casus_belli = status_quo
+			}
+		}
+		set_country_flag = protector_war
+		prestige = 5
+		ai_chance = {
+			factor = 50
+			modifier = {
+				factor = 0
+				OR = {
+					government = democracy
+					government = proletarian_dictatorship
+					government = presidential_dictatorship
+					government = bourgeois_dictatorship
+					government = fascist_dictatorship
+				}
+			}
+			modifier = {
+				factor = 0.5
+				NOT = { is_greater_power = yes }
+			}
+			modifier = {
+				factor = 0.5
+				war = yes
+			}
+		}
+	}
+}
+
+country_event = {
+	
+	id = 125102
+	title = "EVTNAME125102"
+	desc = "EVTDESC125102"
+	picture = "Ottoman"
+	
+	trigger = {
+		NOT = { war = yes }
+		tag = BYZ
+		has_country_flag = protector_war
+		OR = {
+			NOT = { owns = 1151 }
+			NOT = { owns = 1153 }
+		}
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "EVTOPTA125102"
+		
+		clr_country_flag = protector_war
+		clr_country_flag = is_protector_at_the_beginning
+		set_country_flag = was_protector_at_the_beginning
+		prestige = -20
+		remove_core = 1156
+		remove_core = 1151 
+		remove_core = 1152
+		remove_core = 1153 
+		remove_core = 1154 
+		remove_core = 1155
+	}
+}
+
+
+country_event = {
+	
+	id = 125103
+	title = "EVTNAME125103"
+	desc = "EVTDESC125103"
+	picture = "Ottoman"
+	
+	trigger = {
+		NOT = { war = yes }
+		tag = BYZ
+		has_country_flag = protector_war
+		owns = 1151
+		owns = 1153
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "EVTOPTA125100"
+		
+		clr_country_flag = protector_war
+		NEJ = { prestige = -20 }
+		prestige = 20
+		NEJ = { remove_core = 1151 }
+		NEJ = { remove_core = 1152 }
+		NEJ = { remove_core = 1153 }
+		NEJ = { remove_core = 1154 }
+		NEJ = { remove_core = 1155 }
+	}
+}

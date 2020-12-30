@@ -1,0 +1,3933 @@
+#Byzantium Region (364000) #see Greece.txt for balance of region 
+#under the rule of Byzantine Empire in 1836
+#Adrianople (172000/43000 POPS)
+828 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 1350
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 7500
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 20000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 10950
+	}
+
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1450
+	}
+}
+#Kirklareli (112000/28000 POPS)
+858 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1300
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15275
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 6825
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 445
+	}
+}
+#Gelibolu (80000/20000 POPS)
+859 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 375
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 18975
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 5975
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 445
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 2000
+	}
+
+}
+#Byzantium Region (1268000)
+#under the rule of Ottoman Empire in 1836
+#Constantinople (764000/191000 POPS)
+860 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 8000
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+	}
+	officers = {
+		culture = varangian
+		religion = protestant
+		size = 1000
+	}
+	soldiers = {
+		culture = varangian
+		religion = protestant
+		size= 11500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 30000
+
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 6000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 35000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 100000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 10000
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 5000
+	}
+	
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 5000
+	}
+	
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 5000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 40000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 10000
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 10000
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 5000
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 5000
+	}
+}
+#Uskudar (188000/47000 POPS)
+861 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 24250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 5000
+	}
+
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 6450
+	}
+	soldiers = {
+		culture = varangian
+		religion = protestant
+		size= 11500
+	}
+}
+#Izmit (316000/79000 POPS)
+862 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 900
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2750
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2800
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 42250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2250
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 750
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5375
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10375
+	}
+}
+#Hudavendigar Region (736000)
+#under the rule of Ottoman Empire in 1836
+#Bursa (400000/100000 POPS)
+863 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 50575
+	}
+
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5500
+	}
+
+	craftsmen = {
+		culture = armenian
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5375
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10425
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1350
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+}
+#Balikesir (204000/51000 POPS)
+864 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 225
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 30325
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5375
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10475
+	}
+}
+#Chanakkale (132000/33000 POPS)
+865 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 275
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1200
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2325
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 20600
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1200
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5375
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 7800
+	}
+
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 1000
+	}
+
+}
+#Karahisar Region (336000)
+#under the rule of Ottoman Empire in 1836
+#Afyon (84000/21000 POPS)
+866 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 575
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1550
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2200
+
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 15400
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 7100
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Kutahya (112000/28000 POPS)
+867 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 475
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1350
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2275
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 20725
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5030
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Eskisehir (140000/35000 POPS)
+868 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1650
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2350
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 20550
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 13000
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5010
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Aydin Region (988000)
+#under the rule of Ottoman Empire in 1836
+#Izmir (340000/85000 POPS)
+869 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+		
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 6500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 3500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 2525	
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 750
+		
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 750
+		
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+		
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+		
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+	
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 35350
+		
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 9750
+	}
+
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9750
+	}
+
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2500
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2500
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 5000
+	}
+
+}
+#Manisa (244000/61000 POPS)
+870 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 8500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2200
+
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 30200
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 8750
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5450
+	}
+}
+#Denizli (308000/77000 POPS)
+871 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 900
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2650
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 22750
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 17000
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 6450
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+}
+#Mugla (96000/24000 POPS)
+872 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 575
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2100
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2250
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 5750
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15175
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5450
+	}
+}
+#Karaman Region (820000)
+#under the rule of Ottoman Empire in 1836
+#Konya (416000/104000 POPS)
+873 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 2000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 525
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 600
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3850
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3550
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 42475
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 20000
+	}
+
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10930
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Burdur (200000/50000 POPS)
+874 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1050
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 375
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2350
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 32025
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 8530
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Antalya (204000/51000 POPS)
+875 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1075
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 375
+		
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3400
+		
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2525
+		
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 30025
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5800
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Central Anatolia Region (692000)
+#under the rule of Ottoman Empire in 1836
+#Ankara (240000/60000 POPS)
+876 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 10000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 950
+		
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 800
+		
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 475
+		
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+		
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 5500
+		
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 60125
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 8700
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+}
+#Amasya (132000/33000 POPS)
+877 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1075
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2750
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1500
+
+	}
+
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 28200
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9175
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+}
+#Kayseri (96000/24000 POPS)
+878 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3000
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 37225
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 19575
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Sivas (224000/56000 POPS)
+879 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+	craftsmen  = {
+		culture = anatolian
+		religion = orthodox
+		size = 2000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 350
+		
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+		
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 3250	
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 38700
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+	}
+
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 19475
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+}
+#Kastamonu Region (392000)
+#under the rule of Ottoman Empire in 1836
+#Kastamonu (296000/74000 POPS)
+880 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 925
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 525
+		
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+		
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 400
+		
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3650
+		
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3000
+		
+	}
+
+	craftsmen  = {
+		culture = pontic
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 33825
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 15000
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9925
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+}
+#Bolu (96000/24000 POPS)
+881 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 630
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2350
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+
+	}
+
+	craftsmen  = {
+		culture = pontic
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 20125
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5925
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+}
+#Trebizonde Region (540000)
+#under the rule of Ottoman Empire in 1836
+#Trabzon (208000/52000 POPS)
+882 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	craftsmen  = {
+		culture = pontic
+		religion = orthodox
+		size = 2500
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 365
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 600
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 40025
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10750
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 9750
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+}
+#Sinop (192000/48000 POPS)
+883 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 850
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2550
+
+	}
+
+	craftsmen  = {
+		culture = pontic
+		religion = orthodox
+		size = 2000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 30900
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 5620
+		militancy = 10
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 4500
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 2000
+	}
+
+}
+#Giresun (140000/35000 POPS)
+884 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1750
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3100
+
+	}
+
+	craftsmen  = {
+		culture = pontic
+		religion = orthodox
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 20000
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 10000
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1505
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 15375
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 4200
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+}
+#Kars Region (856000) #see Georgia.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Kars (408000/102000 POPS)
+885 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 10000
+	}
+	clerks = {
+		culture = armenian
+		religion = coptic
+		size = 2500
+	}
+
+	capitalists = {
+		culture = armenian
+		religion = coptic
+		size = 150
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 1500
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3000
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3000
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3000
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3000
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 3000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 66200
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 2650
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 300
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 10000
+	}
+
+	slaves = {
+		culture = turkmen
+		religion = sunni
+		size = 13650
+	}
+
+
+}
+#Ardahan (448000/112000 POPS)
+886 = {
+	aristocrats = {
+		culture = georgian
+		religion = orthodox
+		size = 500
+	}
+
+	soldiers = {
+		culture = georgian
+		religion = orthodox
+		size= 2575
+
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2500
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 50200
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 975
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = orthodox
+		size = 300
+	}
+
+	artisans = {
+		culture = georgian
+		religion = orthodox
+		size = 1350
+	}
+
+	farmers = {
+		culture = georgian
+		religion = orthodox
+		size = 33750
+	}
+
+	slaves = {
+		culture = turkmen
+		religion = sunni
+		size = 9650
+	}
+
+}
+#Eastern Anatolia Region (676000)
+#under the rule of Ottoman Empire in 1836
+#Erzurum (168000/42000 POPS)
+887 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 300
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1650
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3000
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 5875
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1500
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 30700
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 950
+		militancy = 7
+        rebel_type = reactionary_rebels
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 9350
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+}
+#Erzincan (312000/78000 POPS)
+888 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 400
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1150
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2500
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = pontic
+		religion = orthodox
+		size = 7175
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 250
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1250
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 35850
+		militancy = 6
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 10450
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+}
+#Malatya (196000/49000 POPS) #bedouin catholic = Assyrians  
+889 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 475
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2150
+
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 10100
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 20300
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = assyrian
+		size = 100
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = assyrian
+		size = 1200
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = assyrian
+		size = 13975
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 675
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 975
+	}
+}
+#Kurdistan Region (720000)
+#under the rule of Ottoman Empire in 1836
+#Van (288000/72000 POPS)
+890 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 600
+	}
+
+	bureaucrats = {
+		culture = armenian
+		religion = coptic
+		size = 275
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 400
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 2500
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 25875
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = assyrian
+		size = 100
+	}
+
+	aristocrats = {
+		culture = assyrian
+		religion = assyrian
+		size = 300
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = assyrian
+		size = 1465
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = assyrian
+		size = 12500
+	}
+
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 500
+	}
+
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 25600
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size= 1975
+
+	}
+}
+
+#Bitlis (76000/19000 POPS)
+891 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 225
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2200
+
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 9500
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2350
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 20600
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = assyrian
+		size = 100
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = assyrian
+		size = 1000
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = assyrian
+		size = 15475
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 825
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 925
+
+	}
+}
+#Hakkari (92000/23000 POPS)
+892 = {
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 300
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 195
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 550
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 1775
+
+	}
+	soldiers = {
+		culture = assyrian
+		religion = assyrian
+		size= 975
+
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10025
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = assyrian
+		size = 13600
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = assyrian
+		size = 175
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = assyrian
+		size = 1105
+	}
+
+	farmers = {
+		culture = turkmen
+		religion = sunni
+		size = 15175
+	}
+
+	aristocrats = {
+		culture = turkmen
+		religion = sunni
+		size = 350
+	}
+
+	soldiers = {
+		culture = turkmen
+		religion = sunni
+		size= 1975
+
+	}
+
+}
+#Diyarbakir (264000/66000 POPS)
+893 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3000
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 9600
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 225
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1450
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 30750
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = assyrian
+		religion = assyrian
+		size = 100
+	}
+
+	artisans = {
+		culture = assyrian
+		religion = assyrian
+		size = 1620
+	}
+
+	farmers = {
+		culture = assyrian
+		religion = assyrian
+		size = 15125
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 850
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 900
+
+	}
+}
+#Cilicia Region (540000)
+#under the rule of Ottoman Empire in 1836
+#Adana (252000/63000 POPS)
+894 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 950
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 250
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3625
+
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 30375
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 20000
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 10475
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+}
+#Mersin (96000/24000 POPS)
+895 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 475
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 265
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2100
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2225
+
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 350
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 22175
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 18500
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9875
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+}
+#Marash (192000/48000 POPS)
+896 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 755
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 325
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3725
+
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 20525
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 50
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 600
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 9650
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 300
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 3150
+	}
+
+}
+#Halab Region (756000) #see Syria.txt for balance of region 
+#under the rule of Egypt in 1836
+#Antep (248000/62000 POPS)
+898 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 650
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1750
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3000
+
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 925
+
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 500
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 10025
+		militancy = 9
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 400
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 20425
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 9150
+	}
+}
+#Urfa (348000/87000 POPS)
+899 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 750
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3075
+	}
+
+	craftsmen  = {
+		culture = armenian
+		religion = coptic
+		size = 1000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = orthodox
+		size = 9500
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9500
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 800
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	soldiers = {
+		culture = armenian
+		religion = coptic
+		size= 750
+
+	}
+	aristocrats = {
+		culture = syriac
+		religion = orthodox
+		size = 450
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 100
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 21150
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 1750
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 22600
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+}
+#Antioch (160000/40000 POPS)
+900 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 700
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3850
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3850
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3850
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3850
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 5500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 25525
+		militancy = 8
+        rebel_type = reactionary_rebels
+	}
+
+	aristocrats = {
+		culture = syriac
+		religion = coptic
+		size = 500
+	}
+
+	officers = {
+		culture = syriac
+		religion = coptic
+		size = 200
+	}
+
+
+	soldiers = {
+		culture = syriac
+		religion = orthodox
+		size= 975
+	}
+
+	clergymen = {
+		culture = syriac
+		religion = orthodox
+		size = 200
+	}
+
+	artisans = {
+		culture = syriac
+		religion = orthodox
+		size = 4850
+	}
+
+	farmers = {
+		culture = syriac
+		religion = orthodox
+		size = 34475
+	}
+
+	aristocrats = {
+		culture = armenian
+		religion = coptic
+		size = 200
+	}
+
+	officers = {
+		culture = armenian
+		religion = coptic
+		size = 150
+	}
+
+	clergymen = {
+		culture = armenian
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = armenian
+		religion = coptic
+		size = 2180
+	}
+
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 14725
+
+	}
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3350
+	}
+
+}

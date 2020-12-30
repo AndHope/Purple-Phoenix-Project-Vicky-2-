@@ -1,0 +1,23 @@
+name = "Romainian Rebellion"
+
+1835.10.2 = {
+	add_attacker = BYZ
+	add_defender = ROM
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = make_puppet
+		actor = BYZ
+		receiver = ROM
+	}
+
+}
+
+1836.6.6 = {
+	rem_attacker = BYZ
+	rem_defender = ROM
+}

@@ -1,0 +1,7 @@
+owner = OMA
+controller = OMA
+colonial = 1
+add_core = AJU
+trade_goods = cotton
+life_rating = 34
+terrain = semi_desert

@@ -1,0 +1,9 @@
+owner = OMA
+controller = OMA
+colonial = 1
+add_core = ETH
+add_core = ADA
+add_core = AMT
+trade_goods = grain
+life_rating = 30
+terrain = desert_hills

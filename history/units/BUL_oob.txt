@@ -1,0 +1,50 @@
+army = {
+	name = "Bulgarian Army"
+	location = 809
+	regiment = {
+		name= "1. Bulgar Hussars"
+		type = hussar
+		home = 809
+	}
+	regiment = {
+		name= "2. Bulgar Hussars"
+		type = hussar
+		home = 809
+	}
+	regiment = {
+		name= "3. Bulgar Hussars"
+		type = hussar
+		home = 809
+	}
+
+	regiment = {
+		name= "4. Bulgar Hussars"
+		type = hussar
+		home = 809
+	}
+
+	regiment = {
+		name= "5. Bulgar Hussars"
+		type = hussar
+		home = 814
+	}
+
+	regiment = {
+		name= "6. Bulgar Hussars"
+		type = hussar
+		home = 814
+	}
+
+	regiment = {
+		name= "7. Bulgar Hussars"
+		type = hussar
+		home = 815
+	}
+
+	regiment = {
+		name= "8. Bulgar Hussars"
+		type = hussar
+		home = 815
+	}
+
+}

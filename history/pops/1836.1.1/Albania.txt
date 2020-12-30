@@ -1,0 +1,422 @@
+#Albania Region (1096000)
+#under the rule of Ottoman Empire in 1836
+#Tirana (296000/74000 POPS)
+849 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 750
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 30025
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 75
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 9925
+	}
+}
+#Shkoder (408000/102000 POPS)
+850 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 250
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 30300
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 225
+	}
+
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 550
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 14725
+	}
+}
+#Durres (120000/30000 POPS)
+851 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 5000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 35
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 650
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 5750
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 9500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 2000
+
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 21075
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 150
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 9750
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 3500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 7500
+	}
+
+}
+#Vlore (272000/68000 POPS)
+852 = {
+	aristocrats = {
+		culture = albanian
+		religion = catholic
+		size = 800
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	artisans = {
+		culture = albanian
+		religion = catholic
+		size = 1250
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 700
+
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 30025
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 9450
+	}
+}
+#Epirus Region (168000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836
+#Gjirokaster (168000/42000 POPS) #now part of Albania   
+853 = {
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 1000
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 15
+	}
+	clergymen = {
+		culture = albanian
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 300
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	farmers = {
+		culture = albanian
+		religion = catholic
+		size = 18875
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = albanian
+		religion = orthodox
+		size = 250
+	}
+
+	farmers = {
+		culture = albanian
+		religion = orthodox
+		size = 9650
+	}
+
+	artisans = {
+		culture = albanian
+		religion = orthodox
+		size = 500
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 13775
+	}
+
+}

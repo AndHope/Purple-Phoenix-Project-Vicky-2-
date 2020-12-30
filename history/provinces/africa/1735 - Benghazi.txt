@@ -1,0 +1,15 @@
+owner = TUN
+controller = BYZ
+add_core = TUN
+naval_base = 2
+fort = 3
+railroad = 2
+trade_goods = fruit
+life_rating = 35
+terrain = marginal_farmland
+add_core = CYR
+state_building = {
+	level = 1
+	building = fruit_cannery
+	upgrade = yes
+}

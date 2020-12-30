@@ -1,0 +1,9 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+add_core = NEJ
+
+add_core = IRQ
+trade_goods = fruit
+life_rating = 35
+terrain = floodplain_farmland

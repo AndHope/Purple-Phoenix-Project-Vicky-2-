@@ -1,0 +1,14 @@
+owner = BYZ
+controller = BYZ
+add_core = GRE
+add_core = BYZ
+railroad = 1
+naval_base = 1
+trade_goods = cotton
+life_rating = 35
+terrain = hilly_farmland
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

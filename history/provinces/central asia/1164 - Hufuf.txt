@@ -1,0 +1,7 @@
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+add_core = ALH
+trade_goods = grain
+life_rating = 34
+terrain = desert

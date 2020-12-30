@@ -1,0 +1,14 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+naval_base = 2
+fort = 3
+railroad = 2
+trade_goods = spices
+life_rating = 36
+terrain = mountain_farmland
+state_building = {
+	level = 1
+	building = gunpowder_factory
+	upgrade = yes
+}

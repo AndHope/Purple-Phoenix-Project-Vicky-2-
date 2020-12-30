@@ -1,0 +1,144 @@
+song = {
+	name = "byz_freedom.mp3"
+	chance = {
+		factor = 2
+	}
+}
+song = {
+	name = "byz_russia.mp3"
+	chance = {
+		factor = 2
+	}
+}
+song = {
+	name = "darkness.mp3"
+	chance = {
+		factor = 2
+	}
+}
+song = {
+	name = "horizon.mp3"
+	chance = {
+		factor = 2
+	}
+}
+song = {
+	name = "War_Music_byCEPHEI_Epic_music_empire.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Crusaders_of_the_Light_Globus.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Ancient_Byzantine_Music_Byzantium.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Elysian_Fields.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Phos_Hilaron_Peace.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Monogenes_Pais.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Incarnation.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Legions_of_Rome.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Epitaph_to_Seikilos_War.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Epitaph_to_Seikilos_Peace.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Vineyards.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Foederati.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Viking_Pagan_Folk_Song_Yggdrasill.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Faun_Unda.mp3"
+	chance = { factor = 1 }
+
+song = {
+	name = "Blod_ok_Dyrd.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Vandraren.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Einherjer.mp3"
+	chance = {
+		factor = 1
+	}
+}
+song = {
+	name = "Otrothinn.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "Tyrkjaránid.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "Fehu.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "Helvegen.mp3"
+	chance = { factor = 1 }
+}
+song = {
+	name = "SS3Boss.mp3"
+	chance = { factor = 1 }
+}

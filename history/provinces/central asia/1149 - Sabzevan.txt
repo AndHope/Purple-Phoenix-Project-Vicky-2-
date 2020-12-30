@@ -1,0 +1,8 @@
+owner = ARY
+controller = ARY
+add_core = QAJ       
+add_core = ARY
+
+trade_goods = coal
+life_rating = 34
+terrain = semi_desert_hills

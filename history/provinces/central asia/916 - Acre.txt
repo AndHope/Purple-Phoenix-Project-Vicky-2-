@@ -1,0 +1,9 @@
+owner = EGY
+controller = BYZ
+add_core = SYR
+add_core = PLS
+railroad = 1
+naval_base = 1
+trade_goods = fish
+life_rating = 35
+terrain = hilly_farmland

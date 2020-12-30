@@ -1,0 +1,9 @@
+owner = CLM
+controller = SPA
+add_core = CLM
+add_core = LST
+
+
+trade_goods = lead
+life_rating = 34
+terrain = desert_hills

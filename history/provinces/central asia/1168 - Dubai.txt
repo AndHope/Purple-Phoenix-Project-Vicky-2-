@@ -1,0 +1,8 @@
+owner = ABU
+controller = ABU
+add_core = ABU
+add_core = NEJ
+add_core = ARY
+trade_goods = grain
+life_rating = 34
+terrain = semi_desert_hills

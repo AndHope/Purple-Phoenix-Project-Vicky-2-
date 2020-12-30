@@ -1,0 +1,17 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+fort = 3
+trade_goods = lead
+life_rating = 35
+terrain = hilly_farmland
+state_building = {
+	level = 1 
+	building = wool_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = fruit_cannery
+	upgrade = yes
+}

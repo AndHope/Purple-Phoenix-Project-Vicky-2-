@@ -1,0 +1,7 @@
+leader = {
+	name = "Alexios Doukas"
+	type = land
+	date = 1836.1.1
+	personality = tyrant
+	background = member_of_elite
+}

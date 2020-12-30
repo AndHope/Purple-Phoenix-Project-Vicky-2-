@@ -1,0 +1,80 @@
+
+
+leader = {
+	name = "John Komnenos"
+	type = land
+	date = 1836.1.1
+	personality = brave
+	background = war_college
+}
+
+leader = {
+	name = "John Kourkouas"
+	type = land
+	date = 1836.1.1
+	personality = charismatic
+	background = war_college
+}
+
+leader = {
+	name = "Andronikos Kontostefanos"
+	type = land
+	date = 1836.1.1
+	personality = skilled
+	background = war_college
+}
+
+
+army = {
+	name = "Anatolia Tagmata"
+	location = 873
+
+	regiment = {
+		name= "4. Kataphraktoi"
+		type = cuirassier
+		home = 876
+	}
+
+	regiment = {
+		name= "16. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "17. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "18. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "19. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "20. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "21. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "22. Kanoni"
+		type = artillery
+		home = 899
+	}
+
+}

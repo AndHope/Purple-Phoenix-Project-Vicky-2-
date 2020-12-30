@@ -1,0 +1,9 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+naval_base = 2
+railroad = 2
+trade_goods = silk
+life_rating = 35
+terrain = hilly_farmland
+

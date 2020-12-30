@@ -1,0 +1,7 @@
+owner = GEO
+controller = GEO
+add_core = GEO
+fort = 2
+trade_goods = iron
+life_rating = 35
+terrain = deciduous_forest_mountains

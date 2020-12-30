@@ -1,0 +1,11 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+add_core = IRQ  
+add_core = ARY
+
+
+
+trade_goods = wool
+life_rating = 35
+terrain = mountain_grassland

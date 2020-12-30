@@ -1,0 +1,629 @@
+GEO = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 100
+}
+ROM = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 100
+}
+CRI = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 100
+}
+ARM = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 100
+}
+MUS = {
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 0
+}
+ETH = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 100
+}
+HUN = {
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	value = -200		#relation
+}
+CRO = {
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 75
+}
+VEN = {
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	value = 0		#relation
+	influence_value = 75
+}
+TUS = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 150		#relation
+	influence_value = 100
+}
+GEN = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 150		#relation
+	influence_value = 100
+}
+ARY = {
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	value = -200		#relation
+}
+JOR = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 50		#relation
+	influence_value = 100
+}
+TRI = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = 50		#relation
+	influence_value = 100
+}
+NEJ = {
+	level = 0		#3=cordial, 4 = friendly, 5 sphere
+	value = -200		#relation
+	influence_value = 0
+}
+MGH = {
+	level = 4		#3=cordial, 4 = friendly, 5 sphere
+	value = -200		#relation
+	influence_value = 0
+}
+TAR = {
+	level = 5		#3=cordial, 4 = friendly, 5 sphere
+	value = -200		#relation
+	influence_value = 0
+}
+
+
+leader = {
+	name = "Flavius Belisarius"
+	type = land
+	date = 1836.1.1
+	personality = inspiring
+	background = brilliant_strategist
+}
+
+leader = {
+	name = "Ragnvaldr Halfdan"
+	type = land
+	date = 1836.1.1
+	personality = bold
+	background = varangian
+}
+
+leader = {
+	name = "Nicephorus Phocas"
+	type = land
+	date = 1836.1.1
+	personality = bold
+	background = brilliant_strategist
+}
+
+leader = {
+	name = "John Komnenos"
+	type = land
+	date = 1836.1.1
+	personality = bold
+	background = war_college
+}
+
+leader = {
+	name = "John Kourkouas"
+	type = land
+	date = 1836.1.1
+	personality = charismatic
+	background = war_college
+}
+
+leader = {
+	name = "Andronikos Kontostefanos"
+	type = land
+	date = 1836.1.1
+	personality = skilled
+	background = war_college
+}
+
+leader = {
+	name = "Alexios Apokaukos"
+	type = land
+	date = 1836.1.1
+	personality = inspiring
+	background = war_college
+}
+
+leader = {
+	name = "Gaius Duilius"
+	type = sea
+	date = 1836.1.1
+	personality = inspiring
+	background = expert_raider
+}
+
+leader = {
+	name = "Michael Stypiotes"
+	type = sea
+	date = 1836.1.1
+	personality = imaginative
+	background = brilliant_strategist
+}
+
+leader = {
+	name = "Constantine Dalassenos"
+	type = sea
+	date = 1836.1.1
+	personality = imaginative
+	background = intellectual
+}
+
+army = {
+	name = "Varangian Guard"
+	location = 860
+
+	regiment = {
+		name= "1. Varangian Guard"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "2. Varangian Guard"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "3. Varangian Guard"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "4. Varangian Guard"
+		type = guard
+		home = 860
+	}
+
+	regiment = {
+		name= "1. Koursores"
+		type = hussar
+		home = 860
+	}
+
+	regiment = {
+		name= "8. Kanoni"
+		type = horse_artillery
+		home = 860
+	}
+
+	regiment = {
+		name= "9. Kanoni"
+		type = horse_artillery
+		home = 860
+	}
+
+}
+
+
+army = {
+	name = "Imperial Tagmata"
+	location = 828
+
+	regiment = {
+		name= "1. Kataphraktoi"
+		type = cuirassier
+		home = 860
+	}
+
+	regiment = {
+		name= "1. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "2. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "3. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "4. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "5. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "7. Kanoni"
+		type = artillery
+		home = 860
+	}
+
+}
+
+
+army = {
+	name = "Asia Tagmata"
+	location = 863
+
+	regiment = {
+		name= "3. Kataphraktoi"
+		type = cuirassier
+		home = 869
+	}
+
+	regiment = {
+		name= "9. Tagmata"
+		type = regular
+		home = 900
+	}
+
+	regiment = {
+		name= "10. Tagmata"
+		type = regular
+		home = 860
+	}
+
+	regiment = {
+		name= "12. Tagmata"
+		type = regular
+		home = 869
+	}
+
+	regiment = {
+		name= "13. Tagmata"
+		type = regular
+		home = 869
+	}
+
+	regiment = {
+		name= "14. Tagmata"
+		type = regular
+		home = 869
+	}
+
+	regiment = {
+		name= "11. Kanoni"
+		type = artillery
+		home = 900
+	}
+
+}
+
+army = {
+	name = "Macedonia Tagmata"
+	location = 805
+
+	regiment = {
+		name= "12. Kataphraktoi"
+		type = cuirassier
+		home = 805
+	}
+
+	regiment = {
+		name= "48. Tagmata"
+		type = regular
+		home = 805
+	}
+
+	regiment = {
+		name= "49. Tagmata"
+		type = regular
+		home = 828
+	}
+
+	regiment = {
+		name= "50. Tagmata"
+		type = regular
+		home = 828
+	}
+
+	regiment = {
+		name= "51. Tagmata"
+		type = regular
+		home = 805
+	}
+
+	regiment = {
+		name= "52. Tagmata"
+		type = regular
+		home = 805
+	}
+
+	regiment = {
+		name= "54. Kanoni"
+		type = artillery
+		home = 828
+	}
+
+}
+
+army = {
+	name = "Pontic Tagmata"
+	location = 883
+
+	regiment = {
+		name= "6. Kataphraktoi"
+		type = cuirassier
+		home = 876
+	}
+
+	regiment = {
+		name= "32. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "33. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "34. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "35. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "36. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "37. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "38. Kanoni"
+		type = artillery
+		home = 882
+	}
+
+}
+
+army = {
+	name = "Anatolia Tagmata"
+	location = 873
+
+	regiment = {
+		name= "4. Kataphraktoi"
+		type = cuirassier
+		home = 876
+	}
+
+	regiment = {
+		name= "16. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "17. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "18. Tagmata"
+		type = regular
+		home = 878
+	}
+
+	regiment = {
+		name= "19. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "20. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "21. Tagmata"
+		type = regular
+		home = 876
+	}
+
+	regiment = {
+		name= "22. Kanoni"
+		type = artillery
+		home = 899
+	}
+
+}
+
+
+
+navy = {
+	name = "Romaioi Navy"
+	location = 844
+	ship = {
+		name= "Megalexandros"
+		type = manowar
+	}
+
+	ship = {
+		name= "Themistoklis"
+		type = manowar
+	}
+
+	ship = {
+		name= "Anaxagoras"
+		type = manowar
+	}
+
+	ship = {
+		name= "Poseidon"
+		type = manowar
+	}
+
+	ship = {
+		name= "Artemis"
+		type = manowar
+	}
+
+	ship = {
+		name= "Gorgopodaros"
+		type = manowar
+	}
+
+	ship = {
+		name= "Achilleas"
+		type = manowar
+	}
+
+	ship = {
+		name= "Messina"
+		type = manowar
+	}
+
+	ship = {
+		name= "Salamis"
+		type = manowar
+	}
+
+	ship = {
+		name= "Lakedemon"
+		type = manowar
+	}
+
+	ship = {
+		name= "Demokritos"
+		type = manowar
+	}
+
+	ship = {
+		name= "Themistoklis"
+		type = manowar
+	}
+
+	ship = {
+		name= "Samos"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Limnos"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Korinthos"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Edessa"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Miltiades"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Ionia"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Zeus"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Athena"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Herakleidios"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Konstantinos"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "Aigyptos"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Theodora"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Rea"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Aigyptos"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Archangellos"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Politis"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Agia Paraskevi"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Kaffa"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "Trapeza"
+		type = steam_transport
+	}
+
+}
+

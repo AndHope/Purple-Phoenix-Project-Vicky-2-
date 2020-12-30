@@ -1,0 +1,31 @@
+name = "Egyptian Uprising"
+
+1835.10.2 = {
+	add_attacker = BYZ
+	add_attacker = JOR
+	add_defender = EGY
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = civil_war
+		actor = BYZ
+		receiver = EGY
+	}
+
+	war_goal = {
+		casus_belli = status_quo
+		actor = EGY
+		receiver = BYZ
+	}
+
+}
+
+1836.6.6 = {
+	rem_attacker = BYZ
+	rem_attacker = JOR
+	rem_defender = EGY
+}

@@ -1,0 +1,14 @@
+owner = VEN
+controller = VEN
+add_core = CYP
+add_core = BYZ
+naval_base = 1
+fort = 1
+trade_goods = copper
+life_rating = 35
+terrain = dry_forest
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}

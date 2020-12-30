@@ -1,0 +1,10 @@
+owner = HDJ
+controller = HDJ
+colonial = 1
+add_core = AMT
+add_core = ETH
+add_core = ERI
+trade_goods = sugar
+life_rating = 34
+terrain = semi_desert_hills
+

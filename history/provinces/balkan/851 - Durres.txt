@@ -1,0 +1,15 @@
+owner = ALB
+controller = ALB
+add_core = BYZ
+add_core = ALB
+naval_base = 2
+fort = 2
+railroad = 2
+trade_goods = cattle
+life_rating = 35
+terrain = hilly_farmland
+state_building = {
+	level = 2 
+	building = canned_food_factory
+	upgrade = yes
+}

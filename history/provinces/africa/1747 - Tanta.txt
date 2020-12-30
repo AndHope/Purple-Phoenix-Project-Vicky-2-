@@ -1,0 +1,12 @@
+owner = EGY
+controller = EGY
+add_core = EGY
+add_core = PLS
+trade_goods = cotton
+life_rating = 36
+terrain = floodplain_farmland
+state_building = {
+	level = 1 
+	building = fabric_factory
+	upgrade = yes
+}

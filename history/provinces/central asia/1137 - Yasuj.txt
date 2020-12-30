@@ -1,0 +1,9 @@
+owner = ARY
+controller = ARY
+add_core = ZND
+
+add_core = ARY
+trade_goods = spices                 
+
+life_rating = 34
+terrain = semi_desert_mountains

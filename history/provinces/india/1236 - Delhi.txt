@@ -1,0 +1,9 @@
+owner = MUG
+controller = MUG
+add_core = MUG
+add_core = HND
+add_core = PNJ
+add_core = ARY
+trade_goods = sugar
+life_rating = 35
+terrain = good_farmland

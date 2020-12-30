@@ -1,0 +1,9 @@
+
+
+
+trade_goods = copper
+life_rating = 34
+terrain = semi_desert_mountains
+
+
+add_core = DIN

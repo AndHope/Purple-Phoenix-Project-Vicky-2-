@@ -1,0 +1,31 @@
+owner = TUN
+controller = TUN
+add_core = TUN
+add_core = MGH
+terrain = marginal_farmland
+trade_goods = lead
+life_rating = 36
+naval_base = 3
+fort = 3
+railroad = 1
+
+state_building = {
+	level = 1 
+	building = clipper_shipyard
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = bakery
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1 
+	building = small_arms_factory
+	upgrade = yes
+}

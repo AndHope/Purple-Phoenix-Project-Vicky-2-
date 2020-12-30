@@ -1,0 +1,25 @@
+owner = BYZ
+controller = VEN
+add_core = EPI
+add_core = BYZ
+naval_base = 2
+fort = 2
+railroad = 2
+trade_goods = wool
+life_rating = 35
+terrain = mountain_farmland
+state_building = {
+	level = 1
+	building = fruit_cannery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = sugar_beet_refinery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = wool_mill
+	upgrade = yes
+}

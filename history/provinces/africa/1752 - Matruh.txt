@@ -1,0 +1,8 @@
+owner = EGY
+controller = BYZ
+add_core = EGY
+add_core = PLS
+railroad = 1
+trade_goods = tobacco
+life_rating = 34
+terrain = semi_desert

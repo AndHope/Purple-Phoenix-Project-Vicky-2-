@@ -1,0 +1,8 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+railroad = 1
+trade_goods = coal
+life_rating = 35
+terrain = dry_forest_hills
+

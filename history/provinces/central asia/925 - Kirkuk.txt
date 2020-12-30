@@ -1,0 +1,9 @@
+owner = ARY
+controller = ARY
+add_core = ARY
+add_core = IRQ
+add_core = NEJ
+
+trade_goods = copper
+life_rating = 35
+terrain = hilly_grassland

@@ -1,0 +1,105 @@
+leader = {
+	name = "Claudio Petrassi"
+	type = land
+	date = 1836.1.1
+	personality = romantic
+	background = cursed_luck
+}
+
+leader = {
+	name = "Marco Monteverdi"
+	type = land
+	date = 1836.1.1
+	personality = modest
+	background = elder_statesman
+}
+
+leader = {
+	name = "Pietro Vivaldi"
+	type = sea
+	date = 1836.1.1
+	personality = independent
+	background = gambler
+}
+
+army = {
+	name = "Esercito dei Firenze"
+	location = 744
+	regiment = {
+		name= "1. Fanteria di Linea"
+		type = regular
+		home = 744
+	}
+
+	regiment = {
+		name= "2. Fanteria di Linea"
+		type = regular
+		home = 744
+	}
+
+	regiment = {
+		name= "3. Fanteria di Linea"
+		type = regular
+		home = 744
+	}
+
+	regiment = {
+		name= "4. Fanteria di Linea"
+		type = regular
+		home = 744
+	}
+
+	regiment = {
+		name= "5. Fanteria di Linea"
+		type = regular
+		home = 744
+	}
+}
+
+navy = {
+	name = "Etrurian Fleet"
+	location = 745
+	ship = {
+		name= "Firenze"
+		type = ironclad
+	}
+
+	ship = {
+		name= "La Spezia"
+		type = ironclad
+	}
+	ship = {
+		name= "Costanza Guerriera"
+		type = ironclad
+	}
+
+	ship = {
+		name= "San Giovanni Battista"
+		type = monitor
+	}
+
+	ship = {
+		name= "Redentor del Mondo"
+		type = monitor
+	}
+
+	ship = {
+		name= "San Lorenzo Giustian"
+		type = monitor
+	}
+
+	ship = {
+		name= "Stella Maris"
+		type = monitor
+	}
+
+	ship = {
+		name= "Colomba d'Oro"
+		type = monitor
+	}
+
+	ship = {
+		name= "Croce Rossa"
+		type = monitor
+	}
+}

@@ -1,0 +1,19 @@
+owner = EGY
+controller = BYZ
+add_core = SYR
+naval_base = 2
+fort = 1
+railroad = 1
+trade_goods = fish
+life_rating = 35
+terrain = dry_forest_mountains
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = fish_cannery
+	upgrade = yes
+}

@@ -1,0 +1,22 @@
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = ITA
+railroad = 2
+naval_base = 3
+add_core = SIC
+trade_goods = fruit
+life_rating = 35
+terrain = hilly_farmland
+
+state_building = {
+	level = 2 
+	building = clipper_shipyard
+	upgrade = yes
+}
+
+state_building = {
+	level = 2 
+	building = steamer_shipyard
+	upgrade = yes
+}

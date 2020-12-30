@@ -1,0 +1,9 @@
+owner = ARY
+controller = ARY
+colonial = 1 
+add_core = AFG   
+add_core = ARY
+ 
+trade_goods = timber
+life_rating = 35
+terrain = conifer_forest_mountains

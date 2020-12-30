@@ -1,0 +1,9 @@
+owner = TUS
+controller = TUS
+add_core = TUS
+add_core = ITA
+railroad = 2
+naval_base = 4
+trade_goods = fish
+life_rating = 35
+terrain = hilly_farmland

@@ -1,0 +1,12 @@
+owner = ALB
+controller = ALB
+add_core = BYZ
+add_core = ALB
+trade_goods = grain
+life_rating = 35
+terrain = mountain_farmland
+state_building = {
+	level = 1
+	building = fruit_cannery
+	upgrade = yes
+}

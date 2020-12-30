@@ -1,0 +1,8 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = ANA
+trade_goods = copper
+life_rating = 35
+terrain = dry_forest_hills
+

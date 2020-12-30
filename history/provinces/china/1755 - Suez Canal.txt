@@ -1,0 +1,9 @@
+owner = EGY
+controller = EGY
+add_core = BYZ
+add_core = EGY
+add_core = PLS
+railroad = 1
+trade_goods = tea
+life_rating = 34
+terrain = semi_desert

@@ -1,0 +1,72 @@
+
+leader = {
+	name = "Nicephorus Phocas"
+	type = land
+	date = 1836.1.1
+	personality = brave
+	background = brilliant_strategist
+}
+
+
+leader = {
+	name = "Andronikos Kontostefanos"
+	type = land
+	date = 1836.1.1
+	personality = skilled
+	background = war_college
+}
+
+
+army = {
+	name = "Pontic Tagmata"
+	location = 883
+
+	regiment = {
+		name= "6. Kataphraktoi"
+		type = cuirassier
+		home = 876
+	}
+
+	regiment = {
+		name= "32. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "33. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "34. Tagmata"
+		type = regular
+		home = 883
+	}
+
+	regiment = {
+		name= "35. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "36. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "37. Tagmata"
+		type = regular
+		home = 882
+	}
+
+	regiment = {
+		name= "38. Kanoni"
+		type = artillery
+		home = 882
+	}
+
+}

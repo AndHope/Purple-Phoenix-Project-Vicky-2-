@@ -1,0 +1,2154 @@
+#Bahari Region (2664000)
+#under the rule of Egypt in 1836
+#Cairo (1004600/251150 POPS)
+1745 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 750
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 525
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 450
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 3250
+
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 1600
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 425
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 3000
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 90000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 550
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8000
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 45000
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 600
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 55
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2225
+	}
+
+	slaves = {
+		culture = nubian
+		religion = animist
+		size = 9000
+	}
+}
+#Dumyat (402600/100650 POPS)
+1746 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 900
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 1375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 3000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1500
+
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 500
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 7500
+	}
+	
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 52500
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 350
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 32500
+	}
+}
+#Tanta (341600/85400 POPS)
+1747 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1250
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 775
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 325
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1475
+
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 350
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 55000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 5000
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 30000
+	}
+}
+#Mansura (256200/64050 POPS)
+1748 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 900
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 1175
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 325
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 2000
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1150
+
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 300
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 40000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 3000
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 22500
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1245
+	}
+}
+#Ziqaziq (272600/68150 POPS)
+1749 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 950
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 1375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 325
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 425
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 975
+
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 300
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 3250
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 44300
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 3100
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 15850
+	}
+}
+#Giza (386400/96600 POPS)
+1750 = {
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 1150
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 1375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 425
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 550
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 700
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 100
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 3050
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 67420
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 350
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 4150
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 19800
+	}
+}
+#Alexandria Region (736000)
+#under the rule of Egypt in 1836
+#Alexandria (640000/160000 POPS)
+1751 = {
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 2500
+	}
+	craftsmen  = {
+		culture = greek
+		religion = orthodox
+		size = 7500
+	}
+	clerks = {
+		culture = greek
+		religion = orthodox
+		size = 2500
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 1750
+	}
+	capitalists = {
+		culture = greek
+		religion = orthodox
+		size = 125
+	}
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 7375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 1750
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 2750
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 325
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 10000
+	}
+	
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 500
+	}
+
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 8000
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 50000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 850
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8500
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8500
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8500
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8500
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 8500
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 65125
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 150
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 6500
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5000
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 11950
+	}
+
+	clergymen = {
+		culture = latin
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = latin
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = latin
+		religion = catholic
+		size = 5000
+	}
+
+	slaves = {
+		culture = nubian
+		religion = animist
+		size = 6000
+	}
+}
+#Matruh (60000/15000 POPS)
+1752 = {
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 325
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1750
+	}
+
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 100
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 125
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 750
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 3750
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 35
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 4150
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 50
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 325
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 1700
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Sidi Barrani (20000/5000 POPS)
+1753 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 75
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 125
+	}
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 500
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 3500
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 35
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 600
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 4150
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 350
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 1575
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Siwa (16000/4000 POPS)
+1754 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 350
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7650
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Sinai Region (100000)
+#under the rule of Egypt in 1836
+#Suez (72000/18000 POPS)
+1755 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 250
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 70
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 50
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 100
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 25
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 55
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1900
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 200
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 16340
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Al Arish (16000/4000 POPS)
+1756 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 125
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 325
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 4800
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7800
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Sharm al Shaykh (12000/3000 POPS)
+1757 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 115
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 25
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 250
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 310
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 1900
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7800
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Hariga Region (56000)
+#uncolonized in 1836
+#Farafra (8000/2000 POPS)
+1758 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 325
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7800
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Bawiti (12000/3000 POPS)
+1759 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 35
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 225
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8700
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Mut (20000/5000 POPS)
+1760 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 175
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 200
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7575
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Baris (16000/4000 POPS)
+1761 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 200
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6500
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = nubian
+		religion = coptic
+		size = 950
+	}
+}
+#Vostani Region (672000)
+#under the rule of Egypt in 1836
+#Asyut (196000/49000 POPS)
+1762 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 425
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 175
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 175
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 2550
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 43240
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2900
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 17935
+	}
+}
+#Bani Suwayf (76000/19000 OPS) }
+1763 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 175
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 120
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 175
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1800
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 500
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 15575
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2150
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 9800
+	}
+}
+#Minya (104000/26000 POPS)
+1764 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 275
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 175
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1550
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 16825
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2250
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 10000
+	}
+}
+#Fayyum (192000/48000 POPS)
+1765 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 400
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 375
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 2100
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 1100
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 37675
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 250
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2300
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 15650
+	}
+}
+#Suhaj (96000/24000 POPS)
+2559 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 300
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 175
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 75
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 1100
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 250
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 21025
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2100
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 11850
+	}
+}
+#Said Region (244000)
+#under the rule of Egypt in 1836
+#Aswan (48000/12000 POPS)
+1766 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 175
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 90
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 75
+	}
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 50
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 200
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 325
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 9000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = greek
+		religion = orthodox
+		size = 150
+	}
+	bureaucrats = {
+		culture = greek
+		religion = orthodox
+		size = 100
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 2100
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 8850
+	}
+
+	artisans = {
+		culture = nubian
+		religion = coptic
+		size = 750
+	}
+
+	soldiers = {
+		culture = nubian
+		religion = coptic
+		size= 400
+
+	}
+
+	farmers = {
+		culture = nubian
+		religion = coptic
+		size = 16890
+	}
+}
+#Luxor (68000/17000 POPS)
+1767 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 125
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 75
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 75
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 55
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 600
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 175
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 15875
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 150
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 1250
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 8700
+	}
+}
+#Idfu (76000/19000 POPS)
+1768 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 200
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 50
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 500
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 75
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 55
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 850
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 200
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 12475
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 1100
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 6850
+	}
+}
+#Qina (52000/13000 POPS)
+1769 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 200
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+	soldiers = {
+		culture = coptic
+		religion = coptic
+		size= 375
+	}
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 40
+	}
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 400
+	}
+	aristocrats = {
+		culture = coptic
+		religion = coptic
+		size = 75
+	}
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 30
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 550
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 150
+
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 14000
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = coptic
+		religion = coptic
+		size = 100
+	}
+
+	artisans = {
+		culture = coptic
+		religion = coptic
+		size = 1100
+	}
+
+	farmers = {
+		culture = coptic
+		religion = coptic
+		size = 7350
+	}
+}
+#Red Sea Region (44000) #see Sudan.txt for balance of the region  
+#under the rule of Egypt in 1836
+#Qusayr (12000/3000 POPS)
+1770 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 35
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 125
+
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7700
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Marsa Alam (20000/5000 POPS)
+1771 = {
+	aristocrats = {
+		culture = misri
+		religion = sunni
+		size = 50
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = misri
+		religion = sunni
+		size = 25
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	artisans = {
+		culture = misri
+		religion = sunni
+		size = 50
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 200
+	}
+
+	farmers = {
+		culture = misri
+		religion = sunni
+		size = 1500
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 30
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7650
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+}
+#Ras Gharib (12000/3000 POPS)
+1772 = {
+	aristocrats = {
+		culture = bedouin
+		religion = sunni
+		size = 150
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 35
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size= 125
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 7700
+		militancy = 5
+        rebel_type = nationalist_rebels
+	}
+
+}

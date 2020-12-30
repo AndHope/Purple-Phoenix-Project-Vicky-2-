@@ -1,0 +1,36 @@
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = ITA
+railroad = 2
+add_core = SIC
+trade_goods = fish
+life_rating = 35
+terrain = good_farmland
+naval_base = 4
+state_building = {
+	level = 1
+	building = fish_cannery
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = explosives_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = iron_machine_parts_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 2 
+	building = small_arms_factory
+	upgrade = yes
+}
+

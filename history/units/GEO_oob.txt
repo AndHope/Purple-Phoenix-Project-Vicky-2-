@@ -1,0 +1,43 @@
+leader = {
+	name = "Basil Bagrationi"
+	type = land
+	date = 1836.1.1
+	personality = fearsome
+	background = introverted_philosopher
+}
+
+leader = {
+	name = "Constantine Bagrationi"
+	type = land
+	date = 1836.1.1
+	personality = unruly
+	background = aristocrat
+}
+
+army = {
+	name = "Army of Georgia"
+	location = 1090
+	regiment = {
+		name= "1. Georgian Calvary"
+		type = hussar
+		home = 1090
+	}
+
+	regiment = {
+		name= "2. Georgian Calvary"
+		type = hussar
+		home = 1090
+	}
+
+	regiment = {
+		name= "3. Georgian Calvary"
+		type = hussar
+		home = 1090
+	}
+
+	regiment = {
+		name= "4. Georgian Calvary"
+		type = hussar
+		home = 1090
+	}
+}

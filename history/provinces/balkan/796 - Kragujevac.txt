@@ -1,0 +1,10 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = CRO
+add_core = YUG
+add_core = BYZ
+railroad = 1
+trade_goods = coal
+life_rating = 35
+terrain = hilly_farmland

@@ -1,0 +1,23 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+trade_goods = dye
+life_rating = 35
+railroad = 2
+naval_base = 1
+terrain = forested_farmland
+#state_building = {
+#	level = 1
+#	building = cement_factory
+#	upgrade = yes
+#}
+#state_building = {
+#	level = 2 
+#	building = fabric_factory
+#	upgrade = yes
+#}
+#state_building = {
+#	level = 2 
+#	building = canned_food_factory
+#	upgrade = yes
+#}

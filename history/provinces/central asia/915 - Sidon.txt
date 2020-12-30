@@ -1,0 +1,8 @@
+owner = EGY
+controller = EGY
+add_core = SYR
+add_core = PLS
+railroad = 1
+trade_goods = fruit
+life_rating = 35
+terrain = dry_forest_hills

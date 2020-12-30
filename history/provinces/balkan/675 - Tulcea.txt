@@ -1,0 +1,9 @@
+owner = BUL
+controller = BUL
+add_core = BYZ
+add_core = WAL
+add_core = ROM
+add_core = BUL
+trade_goods = coal
+life_rating = 35
+terrain = marsh

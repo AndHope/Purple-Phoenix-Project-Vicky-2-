@@ -1,0 +1,10 @@
+owner = SER
+controller = SER
+add_core = SER
+add_core = CRO
+add_core = BYZ
+add_core = ALB
+add_core = YUG
+trade_goods = timber
+life_rating = 35
+terrain = hilly_farmland

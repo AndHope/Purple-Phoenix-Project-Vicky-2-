@@ -1,0 +1,8 @@
+owner = HDJ
+controller = HDJ
+add_core = HDJ
+add_core = NEJ
+
+trade_goods = grain
+life_rating = 34
+terrain = desert_hills

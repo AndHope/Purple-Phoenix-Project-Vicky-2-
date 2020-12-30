@@ -1,0 +1,15 @@
+owner = VEN
+controller = VEN
+add_core = CRE
+add_core = BYZ
+naval_base = 1
+fort = 1
+trade_goods = fruit
+life_rating = 35
+terrain = hilly_grassland
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+

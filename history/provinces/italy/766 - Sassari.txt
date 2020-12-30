@@ -1,0 +1,16 @@
+owner = ARA
+controller = ARA
+add_core = GEN
+add_core = ARA
+add_core = SRD
+add_core = ITA
+railroad = 2
+trade_goods = fish
+life_rating = 35
+terrain = hilly_farmland
+                        
+state_building = {
+	level = 1 
+	building = fish_cannery
+	upgrade = yes
+}
